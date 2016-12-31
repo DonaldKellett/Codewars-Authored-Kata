@@ -141,3 +141,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Generate BF Program from Target Output](https://www.codewars.com/kata/585ddf096d36a5a143000178)
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
 - [Boolfuck Interpreter](https://www.codewars.com/kata/5861487fdb20cff3ab000030)
+- [Custom Smallfuck Interpreter](http://www.codewars.com/kata/custom-smallfuck-interpreter)
