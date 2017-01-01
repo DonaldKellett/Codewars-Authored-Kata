@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 31/12/2016
+- Last Updated: 01/01/2017
 
 ## Featured Kata
 
@@ -142,3 +142,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
 - [Boolfuck Interpreter](https://www.codewars.com/kata/5861487fdb20cff3ab000030)
 - [Custom Smallfuck Interpreter](http://www.codewars.com/kata/custom-smallfuck-interpreter)
+- [Custom Paintfuck Interpreter](http://www.codewars.com/kata/custom-paintfuck-interpreter)
