@@ -6,12 +6,12 @@ Just a list of all the Kata I have authored [on Codewars](https://codewars.com/u
 
 ## Featured Kata
 
-### [Boolfuck Interpreter](https://www.codewars.com/kata/5861487fdb20cff3ab000030)
+### [Custom Smallfuck Interpreter](http://codewars.com/kata/custom-smallfuck-interpreter)
 
-- Current Status: In Beta (Updated 31/12/2016)
-- Estimated Rank: 2kyu
+- Current Status: In Beta (Updated 03/01/2017)
+- Average Assessed Rank: 4kyu (Updated 03/01/2017)
 
-Want to challenge yourself to write an interpreter from scratch?  Then I've definitely got something challenging for you that you will surely enjoy.  Behold ... the Boolfuck Interpreter!  [Boolfuck](http://samuelhughes.com/boof/index.html) is an esoteric programming language derived from the famous [Brainfuck](http://esolangs.org/wiki/Brainfuck) in 2004-2005 which is very similar to Brainfuck itself except that Boolfuck operates on bits instead of bytes which makes it all the harder to both implement an interpreter for and actually program in it.
+[Smallfuck](http://esolangs.org/wiki/Smallfuck) is an esoteric programming language / Esolang which is a sized-down variant of the famous [Brainfuck](http://esolangs.org/wiki/Brainfuck).  It only has 5 commands as opposed to 8, works with bits as opposed to bytes, and has a tape of finite length that varies between implementations as its memory.  It would be Turing-complete if only it had an unbounded tape.  In this Kata, you get to implement a custom interpreter for this particular Esolang which receives a Smallfuck program **and** the initial state of the memory tape as arguments and returns the final state of the tape.  Interested?  Then head over to my Kata! :smile:
 
 ## Featured Kata Series
 
