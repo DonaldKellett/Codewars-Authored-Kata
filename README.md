@@ -2,16 +2,18 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 03/01/2017
+- Last Updated: 04/01/2017
 
 ## Featured Kata
 
-### [Custom Smallfuck Interpreter](http://codewars.com/kata/custom-smallfuck-interpreter)
+### [Custom Paintfuck Interpreter](http://codewars.com/kata/custom-paintfuck-interpreter)
 
-- Current Status: In Beta (Updated 03/01/2017)
-- Average Assessed Rank: 4kyu (Updated 03/01/2017)
+- Current Status: In Beta (Updated 04/01/2017)
+- Average Assessed Rank: 4kyu (Updated 04/01/2017)
 
-[Smallfuck](http://esolangs.org/wiki/Smallfuck) is an esoteric programming language / Esolang which is a sized-down variant of the famous [Brainfuck](http://esolangs.org/wiki/Brainfuck).  It only has 5 commands as opposed to 8, works with bits as opposed to bytes, and has a tape of finite length that varies between implementations as its memory.  It would be Turing-complete if only it had an unbounded tape.  In this Kata, you get to implement a custom interpreter for this particular Esolang which receives a Smallfuck program **and** the initial state of the memory tape as arguments and returns the final state of the tape.  Interested?  Then head over to my Kata! :smile:
+[Paintfuck](http://esolangs.org/wiki/Paintfuck) is a graphical borderline-esoteric programming language / Esolang which is a derivative of [Smallfuck](http://esolangs.org/wiki/Smallfuck).  It uses a 2D datagrid instead of a 1D tape as memory and the data pointer exhibits toroidal (wrapping) behaviour as opposed to terminating normally when it goes out of bounds.  The size of the datagrid varies from implementation to implementation.  It would be Turing-complete if it had a datagrid of infinite dimensions but since that is not the case, it acts like a finite state machine.
+
+In this Kata, you get to write an interpreter for this graphical Esolang and see the results printed in the console.
 
 ## Featured Kata Series
 
