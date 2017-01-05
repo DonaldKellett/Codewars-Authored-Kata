@@ -106,7 +106,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 ## Esolang Interpreters
 
-- *Esolang Interpreters #1 - COMING SOON*
+- [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](http://codewars.com/kata/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck)
 - [Esolang Interpreters #2 - Custom Smallfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter)
 - [Esolang Interpreters #3 - Custom Paintfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-3-custom-paintfuck-interpreter)
 - [Esolang Interpreters #4 - Boolfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-4-boolfuck-interpreter)
