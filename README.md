@@ -2,23 +2,13 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 04/01/2017
+- Last Updated: 05/01/2017
 
-## Featured Kata
-
-### [Custom Paintfuck Interpreter](http://codewars.com/kata/custom-paintfuck-interpreter)
-
-- Current Status: In Beta (Updated 04/01/2017)
-- Average Assessed Rank: 4kyu (Updated 04/01/2017)
-
-[Paintfuck](http://esolangs.org/wiki/Paintfuck) is a graphical borderline-esoteric programming language / Esolang which is a derivative of [Smallfuck](http://esolangs.org/wiki/Smallfuck).  It uses a 2D datagrid instead of a 1D tape as memory and the data pointer exhibits toroidal (wrapping) behaviour as opposed to terminating normally when it goes out of bounds.  The size of the datagrid varies from implementation to implementation.  It would be Turing-complete if it had a datagrid of infinite dimensions but since that is not the case, it acts like a finite state machine.
-
-In this Kata, you get to write an interpreter for this graphical Esolang and see the results printed in the console.
-
-## Featured Kata Series
+## Featured
 
 ### [Object-Oriented PHP](https://www.codewars.com/collections/object-oriented-php)
 
+- Type: Kata Series
 - Current Status: 7 approved, 3 in Beta of 10 total (Updated 03/01/2017)
 - Average Rank: 6kyu
 
@@ -114,6 +104,13 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [PHP in Action #4 - Mailing Scripts](https://www.codewars.com/kata/5843cc2e6312cec12a000014)
 - [PHP in Action #5 - PHPMailer Intro](https://www.codewars.com/kata/584f6d272ddeec19bf00018a)
 
+## Esolang Interpreters
+
+- *Esolang Interpreters #1 - COMING SOON*
+- [Esolang Interpreters #2 - Custom Smallfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter)
+- [Esolang Interpreters #3 - Custom Paintfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-3-custom-paintfuck-interpreter)
+- [Esolang Interpreters #4 - Boolfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-4-boolfuck-interpreter)
+
 ### Standalone Kata
 
 - [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018)
@@ -142,6 +139,3 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Parse a linked list from a string](https://www.codewars.com/kata/582c5382f000e535100001a7)
 - [Generate BF Program from Target Output](https://www.codewars.com/kata/585ddf096d36a5a143000178)
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
-- [Boolfuck Interpreter](https://www.codewars.com/kata/5861487fdb20cff3ab000030)
-- [Custom Smallfuck Interpreter](http://www.codewars.com/kata/custom-smallfuck-interpreter)
-- [Custom Paintfuck Interpreter](http://www.codewars.com/kata/custom-paintfuck-interpreter)
