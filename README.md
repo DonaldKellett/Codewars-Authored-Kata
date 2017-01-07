@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 05/01/2017
+- Last Updated: 07/01/2017
 
 ## Featured
 
@@ -110,6 +110,10 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Esolang Interpreters #2 - Custom Smallfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter)
 - [Esolang Interpreters #3 - Custom Paintfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-3-custom-paintfuck-interpreter)
 - [Esolang Interpreters #4 - Boolfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-4-boolfuck-interpreter)
+
+### RoboScript
+
+- [RoboScript #1 - Implement Syntax Highlighting](https://www.codewars.com/kata/58708934a44cfccca60000c4)
 
 ### Standalone Kata
 
