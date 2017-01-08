@@ -2,17 +2,19 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 07/01/2017
+- Last Updated: 08/01/2017
 
 ## Featured
 
-### [Object-Oriented PHP](https://www.codewars.com/collections/object-oriented-php)
+### [RoboScript](http://codewars.com/collections/roboscript)
 
 - Type: Kata Series
-- Current Status: 7 approved, 3 in Beta of 10 total (Updated 03/01/2017)
-- Average Rank: 6kyu
+- Status: 2 in Beta of 2 total (Updated 08/01/2017)
+- Average Rank: 5kyu (Novice)
 
-Have you always been fascinated by the very concept of object-oriented programming (OOP)?  How you can define your own data structures using the `class` keyword, create a whole category of interrelated classes by classical inheritance using `extends`, etc.  If that is the case then this series is for you!  In this Series, we will explore everything from the very basics of OOP in the PHP scripting language such as the class syntax, what public methods are and how to set public properties using a class constructor to advanced concepts such as abstract classes, interfaces and the newest OO features in PHP not taught in Codecademy.  This Kata Series is sure to teach you all the knowledge and skills required to create clean, DRY PHP code by the time you have completed the entire Series.
+This Kata Series is based on a fictional story about a computer scientist and engineer who owns a firm that sells a toy robot called MyRobot which can interpret its own (esoteric) programming language called RoboScript. Naturally, this Kata Series deals with the software side of things (I'm afraid Codewars cannot test your ability to build a physical robot!).
+
+*Disclaimer: The story presented in this Kata Series is purely fictional; any resemblance to actual programming languages, products, organisations or people should be treated as purely coincidental.*
 
 ## All Kata authored by donaldsebleung
 
@@ -114,6 +116,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 ### RoboScript
 
 - [RoboScript #1 - Implement Syntax Highlighting](https://www.codewars.com/kata/58708934a44cfccca60000c4)
+- [RoboScript #2 - Implement the RS1 Specification](https://www.codewars.com/kata/roboscript-number-2-implement-the-rs1-specification)
 
 ### Standalone Kata
 
