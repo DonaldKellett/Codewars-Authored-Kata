@@ -2,14 +2,14 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 08/01/2017
+- Last Updated: 10/01/2017
 
 ## Featured
 
 ### [RoboScript](http://codewars.com/collections/roboscript)
 
 - Type: Kata Series
-- Status: 2 in Beta of 2 total (Updated 08/01/2017)
+- Status: 3 in Beta of 3 total (Updated 10/01/2017)
 - Average Rank: 5kyu (Novice)
 
 This Kata Series is based on a fictional story about a computer scientist and engineer who owns a firm that sells a toy robot called MyRobot which can interpret its own (esoteric) programming language called RoboScript. Naturally, this Kata Series deals with the software side of things (I'm afraid Codewars cannot test your ability to build a physical robot!).
@@ -116,7 +116,8 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 ### RoboScript
 
 - [RoboScript #1 - Implement Syntax Highlighting](https://www.codewars.com/kata/58708934a44cfccca60000c4)
-- [RoboScript #2 - Implement the RS1 Specification](https://www.codewars.com/kata/roboscript-number-2-implement-the-rs1-specification)
+- [RoboScript #2 - Implement the RS1 Specification](https://www.codewars.com/kata/5870fa11aa0428da750000da)
+- [RoboScript #3 - Implement the RS2 Specification](https://www.codewars.com/kata/58738d518ec3b4bf95000192)
 
 ### Standalone Kata
 
