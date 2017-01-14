@@ -2,19 +2,19 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 10/01/2017
+- Last Updated: 14/01/2017
 
 ## Featured
 
-### [RoboScript](http://codewars.com/collections/roboscript)
+### [Esolang Interpreters](http://codewars.com/collections/esolang-interpreters)
 
 - Type: Kata Series
-- Status: 3 in Beta of 3 total (Updated 10/01/2017)
-- Average Rank: 5kyu (Novice)
+- Status: Approved (4 Kata in total)
+- Average Rank: 3kyu (Competent)
 
-This Kata Series is based on a fictional story about a computer scientist and engineer who owns a firm that sells a toy robot called MyRobot which can interpret its own (esoteric) programming language called RoboScript. Naturally, this Kata Series deals with the software side of things (I'm afraid Codewars cannot test your ability to build a physical robot!).
+"Esolang Interpreters" is a Kata Series that originally began as three separate, independent esolang interpreter Kata authored by [@donaldsebleung](http://codewars.com/users/donaldsebleung) which all shared a similar format and were all somewhat inter-related.  Under the influence of [a fellow Codewarrior](https://www.codewars.com/users/nickkwest), these three high-level inter-related Kata gradually evolved into what is known today as the "Esolang Interpreters" series.
 
-*Disclaimer: The story presented in this Kata Series is purely fictional; any resemblance to actual programming languages, products, organisations or people should be treated as purely coincidental.*
+This series is a high-level Kata Series designed to challenge the minds of bright and daring programmers by implementing interpreters for various [esoteric programming languages/Esolangs](http://esolangs.org), mainly [Brainfuck](http://esolangs.org/wiki/Brainfuck) derivatives but not limited to them, given a certain specification for a certain Esolang.  Perhaps the only exception to this rule is the very first Kata in this Series which is intended as an introduction/taster to the world of esoteric programming languages and writing interpreters for them.
 
 ## All Kata authored by donaldsebleung
 
