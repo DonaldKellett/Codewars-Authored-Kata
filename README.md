@@ -2,19 +2,19 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 14/01/2017
+- Last Updated: 20/03/2017
 
 ## Featured
 
-### [Esolang Interpreters](http://codewars.com/collections/esolang-interpreters)
+### [Reflection in PHP](http://www.codewars.com/collections/reflection-in-php)
 
-- Type: Kata Series
-- Status: Approved (4 Kata in total)
-- Average Rank: 3kyu (Competent)
+- Last Updated: 20/03/2017
+- Current Status: 4 in Beta of 4 total
+- Average Assessed Rank: `6 kyu`
 
-"Esolang Interpreters" is a Kata Series that originally began as three separate, independent esolang interpreter Kata authored by [@donaldsebleung](http://codewars.com/users/donaldsebleung) which all shared a similar format and were all somewhat inter-related.  Under the influence of [a fellow Codewarrior](https://www.codewars.com/users/nickkwest), these three high-level inter-related Kata gradually evolved into what is known today as the "Esolang Interpreters" series.
+This Kata Series explores a core API in PHP called [Reflection](http://php.net/manual/en/book.reflection.php) which allows a developer to *reverse-engineer* classes, interfaces, functions, methods and extensions.  It is assumed that the user undertaking this Kata Series is already familiar with both functional and object-oriented programming in PHP.  A good indicator that you are ready for this Kata Series is if you are able to complete at least **6 out of 8** topics/Kata in my [PHP Functions](https://www.codewars.com/collections/php-functions) series without hesitation and are at least moderately familiar with all the topics covered in the **first 7 Kata** in my [Object-Oriented PHP](https://www.codewars.com/collections/object-oriented-php) series.  Certain Kata in this Series may also require slightly more advanced OOP knowledge such as the awareness of what an interface is, but if such extra knowledge is required, it will be mentioned under a "Prerequisites" subtitle.
 
-This series is a high-level Kata Series designed to challenge the minds of bright and daring programmers by implementing interpreters for various [esoteric programming languages/Esolangs](http://esolangs.org), mainly [Brainfuck](http://esolangs.org/wiki/Brainfuck) derivatives but not limited to them, given a certain specification for a certain Esolang.  Perhaps the only exception to this rule is the very first Kata in this Series which is intended as an introduction/taster to the world of esoteric programming languages and writing interpreters for them.
+Most Kata in this Series will consist of two main parts - a "Lesson" and a "Task".  However, unlike either of "Object-Oriented PHP" and "PHP Functions", the "Lesson" will only teach the fundamental concepts required to **understand** the "Task" presented in each Kata.  In most cases, you will be expected to look up on [the official Reflection documentation](http://php.net/manual/en/book.reflection.php) in order to figure out the details of how to actually complete the Kata "Task" (e.g. which methods to call or even what class to use!).  If you are still in doubt after referring to the official documentation, you are **strongly encouraged** to conduct your own research and use whatever resources are available to you on the Internet or otherwise.
 
 ## All Kata authored by donaldsebleung
 
@@ -110,7 +110,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 - [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](http://codewars.com/kata/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck)
 - [Esolang Interpreters #2 - Custom Smallfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter)
-- [Esolang Interpreters #3 - Custom Paintfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-3-custom-paintfuck-interpreter)
+- [Esolang Interpreters #3 - Custom Paintfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-3-custom-paintf-star-star-k-interpreter)
 - [Esolang Interpreters #4 - Boolfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-4-boolfuck-interpreter)
 
 ### RoboScript
@@ -118,6 +118,13 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [RoboScript #1 - Implement Syntax Highlighting](https://www.codewars.com/kata/58708934a44cfccca60000c4)
 - [RoboScript #2 - Implement the RS1 Specification](https://www.codewars.com/kata/5870fa11aa0428da750000da)
 - [RoboScript #3 - Implement the RS2 Specification](https://www.codewars.com/kata/58738d518ec3b4bf95000192)
+
+### Reflection in PHP
+
+- [Reflection in PHP #1 - Introduction](https://www.codewars.com/kata/reflection-in-php-number-1-introduction)
+- [Reflection in PHP #2 - Dissecting a function via ReflectionParameter](https://www.codewars.com/kata/reflection-in-php-number-2-dissecting-a-function-via-reflectionparameter)
+- [Reflection in PHP #3 - Using Reflection on Classes](https://www.codewars.com/kata/reflection-in-php-number-3-using-reflection-on-classes)
+- [Reflection in PHP #4 - Puzzle Challenge [Assessment]](https://www.codewars.com/kata/reflection-in-php-number-4-puzzle-challenge-assessment)
 
 ### Standalone Kata
 
