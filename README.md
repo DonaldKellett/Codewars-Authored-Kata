@@ -1,16 +1,16 @@
 # Codewars-Authored-Kata
 
-Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
+Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 20/03/2017
+- Last Updated: 15/04/2017
 
 ## Featured
 
 ### [Reflection in PHP](http://www.codewars.com/collections/reflection-in-php)
 
-- Last Updated: 20/03/2017
-- Current Status: 4 in Beta of 4 total
-- Average Assessed Rank: `6 kyu`
+- Last Updated: 15/04/2017
+- Current Status: 1 Approved, 3 in Beta of 4 total
+- Average Assessed Rank: `6 kyu` (Novice)
 
 This Kata Series explores a core API in PHP called [Reflection](http://php.net/manual/en/book.reflection.php) which allows a developer to *reverse-engineer* classes, interfaces, functions, methods and extensions.  It is assumed that the user undertaking this Kata Series is already familiar with both functional and object-oriented programming in PHP.  A good indicator that you are ready for this Kata Series is if you are able to complete at least **6 out of 8** topics/Kata in my [PHP Functions](https://www.codewars.com/collections/php-functions) series without hesitation and are at least moderately familiar with all the topics covered in the **first 7 Kata** in my [Object-Oriented PHP](https://www.codewars.com/collections/object-oriented-php) series.  Certain Kata in this Series may also require slightly more advanced OOP knowledge such as the awareness of what an interface is, but if such extra knowledge is required, it will be mentioned under a "Prerequisites" subtitle.
 
@@ -106,7 +106,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [PHP in Action #4 - Mailing Scripts](https://www.codewars.com/kata/5843cc2e6312cec12a000014)
 - [PHP in Action #5 - PHPMailer Intro](https://www.codewars.com/kata/584f6d272ddeec19bf00018a)
 
-## Esolang Interpreters
+### Esolang Interpreters
 
 - [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](http://codewars.com/kata/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck)
 - [Esolang Interpreters #2 - Custom Smallfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter)
@@ -125,6 +125,11 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Reflection in PHP #2 - Dissecting a function via ReflectionParameter](https://www.codewars.com/kata/reflection-in-php-number-2-dissecting-a-function-via-reflectionparameter)
 - [Reflection in PHP #3 - Using Reflection on Classes](https://www.codewars.com/kata/reflection-in-php-number-3-using-reflection-on-classes)
 - [Reflection in PHP #4 - Puzzle Challenge [Assessment]](https://www.codewars.com/kata/reflection-in-php-number-4-puzzle-challenge-assessment)
+
+### Program a Calculator
+
+- [Program a Calculator #1 - Points in 3D Space](https://www.codewars.com/kata/program-a-calculator-number-1-points-in-3d-space)
+- [Program a Calculator #2 - 3D Vectors](https://www.codewars.com/kata/program-a-calculator-number-2-3d-vectors)
 
 ### Standalone Kata
 
