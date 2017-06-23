@@ -118,6 +118,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [RoboScript #1 - Implement Syntax Highlighting](https://www.codewars.com/kata/58708934a44cfccca60000c4)
 - [RoboScript #2 - Implement the RS1 Specification](https://www.codewars.com/kata/5870fa11aa0428da750000da)
 - [RoboScript #3 - Implement the RS2 Specification](https://www.codewars.com/kata/58738d518ec3b4bf95000192)
+- [RoboScript #4 - RS3 Patterns to the Rescue](https://www.codewars.com/kata/594b898169c1d644f900002e)
 
 ### Reflection in PHP
 
