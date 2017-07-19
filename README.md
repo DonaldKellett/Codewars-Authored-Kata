@@ -1,20 +1,18 @@
 # Codewars-Authored-Kata
 
-Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored).  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
+Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 11/07/2017
+- Last Updated: 20/07/2017
 
-## Featured
+## Featured Kata/Collection/Series
 
-### [Reflection in PHP](http://www.codewars.com/collections/reflection-in-php)
+### [Complex Analysis](https://codewars.com/collections/complex-analysis)
 
-- Last Updated: 15/04/2017
-- Current Status: 1 Approved, 3 in Beta of 4 total
-- Average Assessed Rank: `6 kyu` (Novice)
+- Average Assessed Rank: `4 kyu` (Competent)
+- Status: 4 in Beta of 4 total
+- Authors: 1 by [@donaldsebleung](https://codewars.com/users/donaldsebleung) (me), 3 by [@Voile](https://codewars.com/users/Voile)
 
-This Kata Series explores a core API in PHP called [Reflection](http://php.net/manual/en/book.reflection.php) which allows a developer to *reverse-engineer* classes, interfaces, functions, methods and extensions.  It is assumed that the user undertaking this Kata Series is already familiar with both functional and object-oriented programming in PHP.  A good indicator that you are ready for this Kata Series is if you are able to complete at least **6 out of 8** topics/Kata in my [PHP Functions](https://www.codewars.com/collections/php-functions) series without hesitation and are at least moderately familiar with all the topics covered in the **first 7 Kata** in my [Object-Oriented PHP](https://www.codewars.com/collections/object-oriented-php) series.  Certain Kata in this Series may also require slightly more advanced OOP knowledge such as the awareness of what an interface is, but if such extra knowledge is required, it will be mentioned under a "Prerequisites" subtitle.
-
-Most Kata in this Series will consist of two main parts - a "Lesson" and a "Task".  However, unlike either of "Object-Oriented PHP" and "PHP Functions", the "Lesson" will only teach the fundamental concepts required to **understand** the "Task" presented in each Kata.  In most cases, you will be expected to look up on [the official Reflection documentation](http://php.net/manual/en/book.reflection.php) in order to figure out the details of how to actually complete the Kata "Task" (e.g. which methods to call or even what class to use!).  If you are still in doubt after referring to the official documentation, you are **strongly encouraged** to conduct your own research and use whatever resources are available to you on the Internet or otherwise.
+A collection of Kata (**not** a Series), *grouped* (not authored) by me, dealing with complex arithmetic and extending the properties of common mathematical functions to the complex plane.  Most of them are fairly easy and straightforward provided you know your math but the [kata on implementing the complex Gamma function](https://www.codewars.com/kata/590bb4bd0d363131ab000085) is rather challenging and really tests your math **and** programming skills alike.
 
 ## All Kata authored by donaldsebleung
 
@@ -132,6 +130,12 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Program a Calculator #1 - Points in 3D Space](https://www.codewars.com/kata/program-a-calculator-number-1-points-in-3d-space)
 - [Program a Calculator #2 - 3D Vectors](https://www.codewars.com/kata/program-a-calculator-number-2-3d-vectors)
 
+### Complex Analysis
+
+*NOTE: There are a total of 4 Kata in this Collection as of 20/07/2017 but only 1 of them is actually authored by me (listed below).  The other 3 Kata in this Collection are authored by* [@Voile](https://codewars.com/users/Voile).
+
+- [Implement the (Unnormalized) Cardinal Sine](https://www.codewars.com/kata/5963a29980509479cd000075)
+
 ### Standalone Kata
 
 - [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018)
@@ -160,4 +164,3 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Parse a linked list from a string](https://www.codewars.com/kata/582c5382f000e535100001a7)
 - [Generate BF Program from Target Output](https://www.codewars.com/kata/585ddf096d36a5a143000178)
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
-- [Implement the (Unnormalized) Cardinal Sine](https://www.codewars.com/kata/5963a29980509479cd000075)
