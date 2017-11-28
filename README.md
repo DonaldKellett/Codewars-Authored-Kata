@@ -2,17 +2,16 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 13/08/2017
+- Last Updated: 28/11/2017
 
 ## Featured Kata/Collection/Series
 
-### [Complex Analysis](https://codewars.com/collections/complex-analysis)
+### [RoboScript](https://www.codewars.com/collections/roboscript)
 
-- Average Assessed Rank: `4 kyu` (Competent)
-- Status: 4 in Beta of 4 total
-- Authors: 1 by [@donaldsebleung](https://codewars.com/users/donaldsebleung) (me), 3 by [@Voile](https://codewars.com/users/Voile)
+- Average Assessed Rank: `3 kyu` (Upper Competent)
+- Status: 4 approved, 1 in Beta of 5 total
 
-A collection of Kata (**not** a Series), *grouped* (not authored) by me, dealing with complex arithmetic and extending the properties of common mathematical functions to the complex plane.  Most of them are fairly easy and straightforward provided you know your math but the [kata on implementing the complex Gamma function](https://www.codewars.com/kata/590bb4bd0d363131ab000085) is rather challenging and really tests your math **and** programming skills alike.
+Ever dreamed of starting your own robotics firm and dominating the global robotics market?  Perhaps even leave a mark in the history of technology?  Then this Kata Series is for you!  Complete each of the 5 Kata in this Series sequentially as it walks you through founding your (robotics) firm, inventing a novel, unique programming language that your (robotics) products can run on, and gradually develop your language through the addition of new features in order to suit ever-changing customer demands until it evolves from a mere [esoteric programming language](http://esolangs.org) into a full-fledged programming language :smile:
 
 ## All Kata authored by donaldsebleung
 
@@ -117,6 +116,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [RoboScript #2 - Implement the RS1 Specification](https://www.codewars.com/kata/5870fa11aa0428da750000da)
 - [RoboScript #3 - Implement the RS2 Specification](https://www.codewars.com/kata/58738d518ec3b4bf95000192)
 - [RoboScript #4 - RS3 Patterns to the Rescue](https://www.codewars.com/kata/594b898169c1d644f900002e)
+- [RoboScript #5 - The Final Obstacle (Implement RSU)](https://www.codewars.com/kata/5a12755832b8b956a9000133)
 
 ### Reflection in PHP
 
