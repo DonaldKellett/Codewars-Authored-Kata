@@ -2,16 +2,16 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 28/11/2017
+- Last Updated: 15/05/2018
 
 ## Featured Kata/Collection/Series
 
-### [RoboScript](https://www.codewars.com/collections/roboscript)
+### [Scientific Computing in Fortran](https://www.codewars.com/collections/scientific-computing-in-fortran)
 
-- Average Assessed Rank: `3 kyu` (Upper Competent)
-- Status: 4 approved, 1 in Beta of 5 total
+- Average Assessed Rank: `6 kyu` (Lower Novice)
+- Status: 1 in Beta of 1 total
 
-Ever dreamed of starting your own robotics firm and dominating the global robotics market?  Perhaps even leave a mark in the history of technology?  Then this Kata Series is for you!  Complete each of the 5 Kata in this Series sequentially as it walks you through founding your (robotics) firm, inventing a novel, unique programming language that your (robotics) products can run on, and gradually develop your language through the addition of new features in order to suit ever-changing customer demands until it evolves from a mere [esoteric programming language](http://esolangs.org) into a full-fledged programming language :smile:
+This Kata Series aims to explore the world of advanced mathematics and numerical algorithms through Fortran which is regarded as the world's first widely used high-level programming language and is especially suited for numerical algorithms and scientific computation.
 
 ## All Kata authored by donaldsebleung
 
@@ -136,6 +136,10 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 - [Implement the (Unnormalized) Cardinal Sine](https://www.codewars.com/kata/5963a29980509479cd000075)
 
+### Scientific Computing in Fortran
+
+- [Scientific Computing in Fortran #1 - Introduction to Quaternion Algebra](https://www.codewars.com/kata/5adf4a1488a0b7b9cb000176)
+
 ### Standalone Kata
 
 - [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018)
@@ -158,7 +162,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - ["console.log" and the Lexical "this"](https://www.codewars.com/kata/56fa93d36883c783ec0001d1)
 - [Approving Kata](https://www.codewars.com/kata/5706f1b4fb3008814d0013d2)
 - [Binary Swap](https://www.codewars.com/kata/574ad936a3ebd6b322000d19)
-- [Make a Copy](https://www.codewars.com/kata/577ce2c97a3dbd74b7000059)
+- [Determine sizeof C datatype - Beginner (No prior C knowledge required)](https://www.codewars.com/kata/577ce2c97a3dbd74b7000059)
 - [n times 2 to the power of x](https://www.codewars.com/kata/57861fd922542afb0b00028b)
 - [Convert a linked list to a string](https://www.codewars.com/kata/582c297e56373f0426000098)
 - [Parse a linked list from a string](https://www.codewars.com/kata/582c5382f000e535100001a7)
