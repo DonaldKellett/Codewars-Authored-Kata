@@ -2,14 +2,14 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 15/05/2018
+- Last Updated: 17/05/2018
 
 ## Featured Kata/Collection/Series
 
 ### [Scientific Computing in Fortran](https://www.codewars.com/collections/scientific-computing-in-fortran)
 
-- Average Assessed Rank: `6 kyu` (Lower Novice)
-- Status: 1 in Beta of 1 total
+- Average Assessed Rank: `5 kyu` (Upper Novice)
+- Status: 2 in Beta of 2 total
 
 This Kata Series aims to explore the world of advanced mathematics and numerical algorithms through Fortran which is regarded as the world's first widely used high-level programming language and is especially suited for numerical algorithms and scientific computation.
 
@@ -139,6 +139,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 ### Scientific Computing in Fortran
 
 - [Scientific Computing in Fortran #1 - Introduction to Quaternion Algebra](https://www.codewars.com/kata/5adf4a1488a0b7b9cb000176)
+- [Scientific Computing in Fortran #2 - Quaternionic Transcendental Functions](https://www.codewars.com/kata/5afbb8cc3e9715157d00013d)
 
 ### Standalone Kata
 
