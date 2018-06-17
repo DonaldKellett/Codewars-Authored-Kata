@@ -143,6 +143,10 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Scientific Computing in Fortran #3 - Discrete Fourier Transform](https://www.codewars.com/kata/5b07eab9abe9560de40000d3)
 - [Scientific Computing in Fortran #4 - Fast Fourier Transform](https://www.codewars.com/kata/5b093ee624c068bdce0000a1)
 
+### Computer Science 101
+
+- [Computer Science 101 - #1 Stacks](https://www.codewars.com/kata/5b24bcecd74b5be066000054)
+
 ### Standalone Kata
 
 - [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018)
