@@ -146,6 +146,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 ### Computer Science 101
 
 - [Computer Science 101 - #1 Stacks](https://www.codewars.com/kata/5b24bcecd74b5be066000054)
+- [Computer Science 101 - #2 Queues](https://www.codewars.com/kata/5b26360bd74b5b2ea5000026)
 
 ### Standalone Kata
 
