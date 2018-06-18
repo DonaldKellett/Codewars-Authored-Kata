@@ -2,16 +2,16 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 27/05/2018
+- Last Updated: 18/06/2018
 
 ## Featured Kata/Collection/Series
 
-### [Scientific Computing in Fortran](https://www.codewars.com/collections/scientific-computing-in-fortran)
+### [Computer Science 101](https://www.codewars.com/collections/computer-science-101)
 
-- Average Assessed Rank: `5 kyu` (Upper Novice)
-- Status: 4 in Beta of 4 total
+- Average Assessed Rank: `6 kyu` (Lower Novice)
+- Status: 1 approved, 2 in Beta of 3 total
 
-This Kata Series aims to explore the world of advanced mathematics and numerical algorithms through Fortran which is regarded as the world's first widely used high-level programming language and is especially suited for numerical algorithms and scientific computation.
+Learn fundamental computer science concepts that every CS student must know in depth such as algorithms, data structures and common data types through implementing them from first principles.
 
 ## All Kata authored by donaldsebleung
 
@@ -147,6 +147,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 - [Computer Science 101 - #1 Stacks](https://www.codewars.com/kata/5b24bcecd74b5be066000054)
 - [Computer Science 101 - #2 Queues](https://www.codewars.com/kata/5b26360bd74b5b2ea5000026)
+- [Computer Science 101 - #3 Deques](https://www.codewars.com/kata/5b2771fab6989dd87d0000f1)
 
 ### Standalone Kata
 
