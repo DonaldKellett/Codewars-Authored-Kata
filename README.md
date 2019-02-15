@@ -2,16 +2,16 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 18/06/2018
+- Last Updated: 16/02/2019
 
 ## Featured Kata/Collection/Series
 
-### [Computer Science 101](https://www.codewars.com/collections/computer-science-101)
+### [Linear Algebra: Vector Spaces, Linear Transformations and Friends](https://www.codewars.com/kata/5c624cfb53a1275e7d0fb19e)
 
-- Average Assessed Rank: `6 kyu` (Lower Novice)
-- Status: 1 approved, 2 in Beta of 3 total
+- Estimated Rank: `3 kyu` (Upper Competent)
+- Status: In Beta
 
-Learn fundamental computer science concepts that every CS student must know in depth such as algorithms, data structures and common data types through implementing them from first principles.
+Learn key concepts in linear algebra through active engagement by attempting/completing this Kata.  Only a high-school understanding of vector quantities is required to start this Kata - everything you need to know will be taught to you via the comprehensive comments throughout the Initial Solution.  A must for Computer Science students.
 
 ## All Kata authored by donaldsebleung
 
@@ -178,3 +178,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Generate BF Program from Target Output](https://www.codewars.com/kata/585ddf096d36a5a143000178)
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
 - [[BF] Greetings with Defaults](https://www.codewars.com/kata/599057654f613e6a1c000082)
+- [Linear Algebra: Vector Spaces, Linear Transformations and Friends](https://www.codewars.com/kata/5c624cfb53a1275e7d0fb19e)
