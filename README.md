@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 16/02/2019
+- Last Updated: 19/04/2019
 
 ## Featured Kata/Collection/Series
 
@@ -179,3 +179,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
 - [[BF] Greetings with Defaults](https://www.codewars.com/kata/599057654f613e6a1c000082)
 - [Linear Algebra: Vector Spaces, Linear Transformations and Friends](https://www.codewars.com/kata/5c624cfb53a1275e7d0fb19e)
+- [A random fact about filtering](https://www.codewars.com/kata/5cb9dc6f98b230001cbe2cea)
