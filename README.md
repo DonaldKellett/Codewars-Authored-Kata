@@ -182,3 +182,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [A random fact about filtering](https://www.codewars.com/kata/5cb9dc6f98b230001cbe2cea)
 - [Multiples of 3, you say?](https://www.codewars.com/kata/5cc47f8c4b8fea001de6d226)
 - [Simplifying conditional statements](https://www.codewars.com/kata/5cdae5caf00ea9000e98dc27)
+- [Simplifying conditional statements, again](https://www.codewars.com/kata/5cdbe45dc50527001d55af5f)
