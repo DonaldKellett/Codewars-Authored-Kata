@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 28/04/2019
+- Last Updated: 15/05/2019
 
 ## Featured Kata/Collection/Series
 
@@ -181,3 +181,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Linear Algebra: Vector Spaces, Linear Transformations and Friends](https://www.codewars.com/kata/5c624cfb53a1275e7d0fb19e)
 - [A random fact about filtering](https://www.codewars.com/kata/5cb9dc6f98b230001cbe2cea)
 - [Multiples of 3, you say?](https://www.codewars.com/kata/5cc47f8c4b8fea001de6d226)
+- [Simplifying conditional statemenets](https://www.codewars.com/kata/5cdae5caf00ea9000e98dc27)
