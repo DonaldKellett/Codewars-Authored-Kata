@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 15/05/2019
+- Last Updated: 16/05/2019
 
 ## Featured Kata/Collection/Series
 
@@ -183,3 +183,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Multiples of 3, you say?](https://www.codewars.com/kata/5cc47f8c4b8fea001de6d226)
 - [Simplifying conditional statements](https://www.codewars.com/kata/5cdae5caf00ea9000e98dc27)
 - [Simplifying conditional statements, again](https://www.codewars.com/kata/5cdbe45dc50527001d55af5f)
+- [Finding the maximal program](https://www.codewars.com/kata/5cdcdefdf00ea9001ca2e8fa)
