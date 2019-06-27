@@ -4,14 +4,14 @@ Just a list of all the Kata I have authored [on Codewars](https://codewars.com/u
 
 - Last Updated: 27/06/2019
 
-## Featured Kata/Collection/Series
+## Featured Kata
 
-### [Linear Algebra: Vector Spaces, Linear Transformations and Friends](https://www.codewars.com/kata/5c624cfb53a1275e7d0fb19e)
+### [Subtyping Mutable References](https://www.codewars.com/kata/5d144e6dbac0b8001e450a48)
 
-- Estimated Rank: `3 kyu` (Upper Competent)
+- Estimated Rank: ~~`1 kyu` (Upper Proficient)~~ `1 dan` (Expert Level 1)
 - Status: In Beta
 
-Learn key concepts in linear algebra through active engagement by attempting/completing this Kata.  Only a high-school understanding of vector quantities is required to start this Kata - everything you need to know will be taught to you via the comprehensive comments throughout the Initial Solution.  A must for Computer Science students.
+This Kata considers the [simply typed lambda calculus](https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus) extended with subtyping and mutable references. You are asked to prove two major theorems concerning the type safety of this calculus, namely the progress and preservation theorems. The content in this Kata is inspired by [Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) of the [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html) series, an excellent resource for learning [Coq](https://coq.inria.fr).
 
 ## All Kata authored by donaldsebleung
 
