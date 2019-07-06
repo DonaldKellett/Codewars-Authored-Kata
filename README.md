@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-- Last Updated: 27/06/2019
+*Last Updated: 06/07/2019*
 
 ## Featured Kata
 
@@ -130,7 +130,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Program a Calculator #1 - Points in 3D Space](https://www.codewars.com/kata/program-a-calculator-number-1-points-in-3d-space)
 - [Program a Calculator #2 - 3D Vectors](https://www.codewars.com/kata/program-a-calculator-number-2-3d-vectors)
 
-### Complex Analysis
+### [Complex Analysis](https://www.codewars.com/collections/complex-analysis)
 
 *NOTE: There are a total of 4 Kata in this Collection as of 20/07/2017 but only 1 of them is actually authored by me (listed below).  The other 3 Kata in this Collection are authored by* [@Voile](https://codewars.com/users/Voile).
 
@@ -148,6 +148,10 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Computer Science 101 - #1 Stacks](https://www.codewars.com/kata/5b24bcecd74b5be066000054)
 - [Computer Science 101 - #2 Queues](https://www.codewars.com/kata/5b26360bd74b5b2ea5000026)
 - [Computer Science 101 - #3 Deques](https://www.codewars.com/kata/5b2771fab6989dd87d0000f1)
+
+### [Verified Sorting Algorithms](https://www.codewars.com/collections/verified-sorting-algorithms)
+
+- [Verified Sorting Algorithms - Bubblesort](https://www.codewars.com/kata/5d208ab62cf48200299d55c2)
 
 ### Standalone Kata
 
