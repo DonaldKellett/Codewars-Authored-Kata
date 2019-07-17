@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 06/07/2019*
+*Last Updated: 17/07/2019*
 
 ## Featured Kata
 
@@ -152,6 +152,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 ### [Verified Sorting Algorithms](https://www.codewars.com/collections/verified-sorting-algorithms)
 
 - [Verified Sorting Algorithms - Bubblesort](https://www.codewars.com/kata/5d208ab62cf48200299d55c2)
+- [Verified Sorting Algorithms - Quicksort](https://www.codewars.com/kata/5d2f292b496f8d001c224972)
 
 ### Standalone Kata
 
