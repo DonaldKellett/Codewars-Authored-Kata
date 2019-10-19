@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 19/07/2019*
+*Last Updated: 19/10/2019*
 
 ## Featured Kata
 
@@ -195,3 +195,4 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Finding the maximal program, revamped](https://www.codewars.com/kata/5d0dce505d55e00019a15aed)
 - [One small step for a man, one giant leap for mankind](https://www.codewars.com/kata/5d0f85053c7724002a6663ac)
 - [Subtyping Mutable References](https://www.codewars.com/kata/5d144e6dbac0b8001e450a48)
+- [Verified Majority Element](https://www.codewars.com/kata/5daa7b59e8e4a900122c224f)
