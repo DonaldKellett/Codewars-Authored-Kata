@@ -105,10 +105,10 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 ### Esolang Interpreters
 
-- [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](http://codewars.com/kata/esolang-interpreters-number-1-introduction-to-esolangs-and-my-first-interpreter-ministringfuck)
-- [Esolang Interpreters #2 - Custom Smallfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-2-custom-smallfuck-interpreter)
-- [Esolang Interpreters #3 - Custom Paintfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-3-custom-paintf-star-star-k-interpreter)
-- [Esolang Interpreters #4 - Boolfuck Interpreter](http://codewars.com/kata/esolang-interpreters-number-4-boolfuck-interpreter)
+- [Esolang Interpreters #1 - Introduction to Esolangs and My First Interpreter (MiniStringFuck)](https://www.codewars.com/kata/586dd26a69b6fd46dd0000c0)
+- [Esolang Interpreters #2 - Custom Smallfuck Interpreter](https://www.codewars.com/kata/58678d29dbca9a68d80000d7)
+- [Esolang Interpreters #3 - Custom Paintfuck Interpreter](https://www.codewars.com/kata/5868a68ba44cfc763e00008d)
+- [Esolang Interpreters #4 - Boolfuck Interpreter](https://www.codewars.com/kata/5861487fdb20cff3ab000030)
 
 ### RoboScript
 
@@ -120,15 +120,15 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 ### Reflection in PHP
 
-- [Reflection in PHP #1 - Introduction](https://www.codewars.com/kata/reflection-in-php-number-1-introduction)
-- [Reflection in PHP #2 - Dissecting a function via ReflectionParameter](https://www.codewars.com/kata/reflection-in-php-number-2-dissecting-a-function-via-reflectionparameter)
-- [Reflection in PHP #3 - Using Reflection on Classes](https://www.codewars.com/kata/reflection-in-php-number-3-using-reflection-on-classes)
-- [Reflection in PHP #4 - Puzzle Challenge [Assessment]](https://www.codewars.com/kata/reflection-in-php-number-4-puzzle-challenge-assessment)
+- [Reflection in PHP #1 - Introduction](https://www.codewars.com/kata/58c8e1c2a7f31af03600008f)
+- [Reflection in PHP #2 - Dissecting a function via ReflectionParameter](https://www.codewars.com/kata/58c9defe6a3965206600011d)
+- [Reflection in PHP #3 - Using Reflection on Classes](https://www.codewars.com/kata/58ca951592ce34cff500000e)
+- [Reflection in PHP #4 - Puzzle Challenge [Assessment]](https://www.codewars.com/kata/58ce4e9b360ced9470000106)
 
 ### Program a Calculator
 
-- [Program a Calculator #1 - Points in 3D Space](https://www.codewars.com/kata/program-a-calculator-number-1-points-in-3d-space)
-- [Program a Calculator #2 - 3D Vectors](https://www.codewars.com/kata/program-a-calculator-number-2-3d-vectors)
+- [Program a Calculator #1 - Points in 3D Space](https://www.codewars.com/kata/58e46873c45e9af88d00006a)
+- [Program a Calculator #2 - 3D Vectors](https://www.codewars.com/kata/58ee4962dc4f81d6f400001c)
 
 ### [Complex Analysis](https://www.codewars.com/collections/complex-analysis)
 
