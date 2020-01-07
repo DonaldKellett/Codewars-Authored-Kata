@@ -149,6 +149,26 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Computer Science 101 - #2 Queues](https://www.codewars.com/kata/5b26360bd74b5b2ea5000026)
 - [Computer Science 101 - #3 Deques](https://www.codewars.com/kata/5b2771fab6989dd87d0000f1)
 
+### [Supplementary Exercises for Logical Foundations](https://www.codewars.com/collections/supplementary-exercises-for-logical-foundations)
+
+_Disclaimer: The exercises in this collection are in no way officially endorsed by the authors of Software Foundations, implied or otherwise._
+
+- [A random fact about filtering](https://www.codewars.com/kata/5cb9dc6f98b230001cbe2cea)
+- [Multiples of 3, you say?](https://www.codewars.com/kata/5cc47f8c4b8fea001de6d226)
+
+### [Supplementary Exercises for Programming Language Foundations](https://www.codewars.com/collections/supplementary-exercises-for-programming-language-foundations)
+
+_Disclaimer: The exercises in this collection are in no way officially endorsed by the authors of Software Foundations, implied or otherwise._
+
+- [Simplifying conditional statements](https://www.codewars.com/kata/5cdae5caf00ea9000e98dc27)
+- [Simplifying conditional statements, again](https://www.codewars.com/kata/5cdbe45dc50527001d55af5f)
+- [Finding the maximal program](https://www.codewars.com/kata/5cdcdefdf00ea9001ca2e8fa)
+- [Finding the maximal program, revamped](https://www.codewars.com/kata/5d0dce505d55e00019a15aed)
+- [Sum of squares without multiplying](https://www.codewars.com/kata/5cf268e10fd3cb0022190bb8)
+- [One small step for a man, one giant leap for mankind](https://www.codewars.com/kata/5d0f85053c7724002a6663ac)
+- [Evaluating the type safety of a toy language](https://www.codewars.com/kata/5cfd36be4c60c3001b8fb38a)
+- [Subtyping Mutable References](https://www.codewars.com/kata/5d144e6dbac0b8001e450a48)
+
 ### [Verified Sorting Algorithms](https://www.codewars.com/collections/verified-sorting-algorithms)
 
 - [Verified Sorting Algorithms - Bubblesort](https://www.codewars.com/kata/5d208ab62cf48200299d55c2)
@@ -185,15 +205,5 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Generate BF Program from Target Output - Challenge Edition](https://www.codewars.com/kata/585e3bec6d36a5cad5000103)
 - [[BF] Greetings with Defaults](https://www.codewars.com/kata/599057654f613e6a1c000082)
 - [Linear Algebra: Vector Spaces, Linear Transformations and Friends](https://www.codewars.com/kata/5c624cfb53a1275e7d0fb19e)
-- [A random fact about filtering](https://www.codewars.com/kata/5cb9dc6f98b230001cbe2cea)
-- [Multiples of 3, you say?](https://www.codewars.com/kata/5cc47f8c4b8fea001de6d226)
-- [Simplifying conditional statements](https://www.codewars.com/kata/5cdae5caf00ea9000e98dc27)
-- [Simplifying conditional statements, again](https://www.codewars.com/kata/5cdbe45dc50527001d55af5f)
-- [Finding the maximal program](https://www.codewars.com/kata/5cdcdefdf00ea9001ca2e8fa)
-- [Sum of squares without multiplying](https://www.codewars.com/kata/5cf268e10fd3cb0022190bb8)
-- [Evaluating the type safety of a toy language](https://www.codewars.com/kata/5cfd36be4c60c3001b8fb38a)
-- [Finding the maximal program, revamped](https://www.codewars.com/kata/5d0dce505d55e00019a15aed)
-- [One small step for a man, one giant leap for mankind](https://www.codewars.com/kata/5d0f85053c7724002a6663ac)
-- [Subtyping Mutable References](https://www.codewars.com/kata/5d144e6dbac0b8001e450a48)
 - [Verified Majority Element](https://www.codewars.com/kata/5daa7b59e8e4a900122c224f)
 - [Verified Element Index](https://www.codewars.com/kata/5ddcfa7aaff39b0027d2c754)
