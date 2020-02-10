@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 08/02/2020*
+*Last Updated: 10/02/2020*
 
 ## Featured Kata
 
@@ -174,10 +174,6 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Verified Sorting Algorithms - Bubblesort](https://www.codewars.com/kata/5d208ab62cf48200299d55c2)
 - [Verified Sorting Algorithms - Quicksort](https://www.codewars.com/kata/5d2f292b496f8d001c224972)
 - [Verified Sorting Algorithms - Mergesort](https://www.codewars.com/kata/5d309eab3d9880002265aeed)
-
-### [The Untyped Lambda Calculus](https://www.codewars.com/collections/5e3d98300b3c6d0032ba44b4)
-
-- [The Untyped Lambda Calculus #1 - Implementing a Verified Beta Step Evaluator](https://www.codewars.com/kata/5e3d8d8ef76b1c001e062cfe)
 
 ### Standalone Kata
 
