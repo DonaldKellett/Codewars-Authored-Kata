@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 11/02/2020*
+*Last Updated: 16/02/2020*
 
 ## Featured Kata
 
@@ -208,3 +208,4 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Verified Majority Element](https://www.codewars.com/kata/5daa7b59e8e4a900122c224f)
 - [Verified Element Index](https://www.codewars.com/kata/5ddcfa7aaff39b0027d2c754)
 - [Implementing a Verified Evaluator for the Untyped Lambda Calculus](https://www.codewars.com/kata/5e3d8d8ef76b1c001e062cfe)
+- [The Church-Rosser Theorem](https://www.codewars.com/kata/5e4914f1083ab4001eb6af2d)
