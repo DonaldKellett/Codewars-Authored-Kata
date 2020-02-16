@@ -6,12 +6,12 @@ Just a list of all the Kata I have authored [on Codewars](https://codewars.com/u
 
 ## Featured Kata
 
-### [Subtyping Mutable References](https://www.codewars.com/kata/5d144e6dbac0b8001e450a48)
+### [The Church-Rosser Theorem](https://www.codewars.com/kata/5e4914f1083ab4001eb6af2d)
 
-- Estimated Rank: ~~`1 kyu` (Upper Proficient)~~ `1 dan` (Expert Level 1)
-- Status: In Beta
+- Estimated rank: `3 kyu`
+- Status: Beta
 
-This Kata considers the [simply typed lambda calculus](https://en.wikipedia.org/wiki/Simply_typed_lambda_calculus) extended with subtyping and mutable references. You are asked to prove two major theorems concerning the type safety of this calculus, namely the progress and preservation theorems. The content in this Kata is inspired by [Volume 2: Programming Language Foundations](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) of the [Software Foundations](https://softwarefoundations.cis.upenn.edu/current/index.html) series, an excellent resource for learning [Coq](https://coq.inria.fr).
+You are asked to adapt the proof of the Church-Rosser theorem for beta-eta-reduction in the untyped lambda calculus, given in Chapter 4.4 of Peter Selinger's [Lecture Notes on the Lambda Calculus](https://www.irif.fr/~mellies/mpri/mpri-ens/biblio/Selinger-Lambda-Calculus-Notes.pdf), for the case of beta-reduction as in Exercise 17, except this time, you have to formalize your proof.
 
 ## All Kata authored by donaldsebleung
 
