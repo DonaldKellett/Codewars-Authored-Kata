@@ -2,13 +2,13 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 16/02/2020*
+*Last Updated: 20/02/2020*
 
 ## Featured Kata
 
 ### [The Church-Rosser Theorem](https://www.codewars.com/kata/5e4914f1083ab4001eb6af2d)
 
-- Estimated rank: `3 kyu`
+- Average assessed rank: `2 kyu`
 - Status: Beta
 
 You are asked to adapt the proof of the Church-Rosser theorem for beta-eta-reduction in the untyped lambda calculus, given in Chapter 4.4 of Peter Selinger's [Lecture Notes on the Lambda Calculus](https://www.irif.fr/~mellies/mpri/mpri-ens/biblio/Selinger-Lambda-Calculus-Notes.pdf), for the case of beta-reduction as in Exercise 17, except this time, you have to formalize your proof.
