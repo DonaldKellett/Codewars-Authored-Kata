@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 20/02/2020*
+*Last Updated: 04/04/2020*
 
 ## Featured Kata
 
@@ -174,6 +174,17 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Verified Sorting Algorithms - Bubblesort](https://www.codewars.com/kata/5d208ab62cf48200299d55c2)
 - [Verified Sorting Algorithms - Quicksort](https://www.codewars.com/kata/5d2f292b496f8d001c224972)
 - [Verified Sorting Algorithms - Mergesort](https://www.codewars.com/kata/5d309eab3d9880002265aeed)
+
+### [Incidence Geometry](https://www.codewars.com/collections/incidence-geometry)
+
+- [Incidence Geometry #1](https://www.codewars.com/kata/5e8897a818f8ed002eedd1bd)
+- [Incidence Geometry #2](https://www.codewars.com/kata/5e889a3c0f55ed0032f1879f)
+- [Incidence Geometry #3](https://www.codewars.com/kata/5e889bcd0f55ed0023f11b2e)
+- [Incidence Geometry #4](https://www.codewars.com/kata/5e889e710f55ed0015f17e84)
+- [Incidence Geometry #5](https://www.codewars.com/kata/5e88a132a220140028506a43)
+- [Incidence Geometry #6](https://www.codewars.com/kata/5e88a329c398e20033afc236)
+- [Incidence Geometry #7](https://www.codewars.com/kata/5e88a4ee3820e90017210927)
+- [Incidence Geometry #8](https://www.codewars.com/kata/5e88a6657912b20021d49d18)
 
 ### Standalone Kata
 
