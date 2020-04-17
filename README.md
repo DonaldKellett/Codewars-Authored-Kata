@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 04/04/2020*
+*Last Updated: 17/04/2020*
 
 ## Featured Kata
 
@@ -185,6 +185,13 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Incidence Geometry #6](https://www.codewars.com/kata/5e88a329c398e20033afc236)
 - [Incidence Geometry #7](https://www.codewars.com/kata/5e88a4ee3820e90017210927)
 - [Incidence Geometry #8](https://www.codewars.com/kata/5e88a6657912b20021d49d18)
+
+### [Mathematical Analysis](https://www.codewars.com/collections/mathematical-analysis)
+
+- [Mathematical Analysis - Limits of Sequences #1](https://www.codewars.com/kata/5e997f77ea84170016600045)
+- [Mathematical Analysis - Limits of Sequences #2](https://www.codewars.com/kata/5e9981da9dd96e001f3b7c0c)
+- [Mathematical Analysis - Limits of Sequences #3](https://www.codewars.com/kata/5e9983456a4f5d001ad74a63)
+- [Mathematical Analysis - Limits of Sequences #4](https://www.codewars.com/kata/5e9985252d3a920029a7b020)
 
 ### Standalone Kata
 
