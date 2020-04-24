@@ -194,6 +194,7 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Mathematical Analysis - Limits of Sequences #4](https://www.codewars.com/kata/5e9985252d3a920029a7b020)
 - [Mathematical Analysis - Continuous function about an open interval](https://www.codewars.com/kata/5e9e9f39c58d260016b53116/)
 - [Mathematical Analysis - Limits of Sequences #5](https://www.codewars.com/kata/5ea24f59c3928c002e0be59c)
+- [Mathematical Analysis - Lipschitz functions](https://www.codewars.com/kata/5ea281b8888eba001fd3d77c)
 
 ### Standalone Kata
 
