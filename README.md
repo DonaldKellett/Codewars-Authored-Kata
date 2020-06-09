@@ -2,7 +2,7 @@
 
 Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
 
-*Last Updated: 26/04/2020*
+*Last Updated: 09/06/2020*
 
 ## Featured Kata
 
@@ -196,6 +196,10 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Mathematical Analysis - Limits of Sequences #5](https://www.codewars.com/kata/5ea24f59c3928c002e0be59c)
 - [Mathematical Analysis - Continuous function about an open interval](https://www.codewars.com/kata/5e9e9f39c58d260016b53116/)
 - [Mathematical Analysis - Lipschitz functions](https://www.codewars.com/kata/5ea281b8888eba001fd3d77c)
+
+### [Hardware Verification](https://www.codewars.com/collections/hardware-verification/)
+
+- [Linear Feedback Shift Registers](https://www.codewars.com/kata/5edf9cb6d5f30e0034a4f76d)
 
 ### Standalone Kata
 
