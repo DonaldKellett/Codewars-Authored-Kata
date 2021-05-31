@@ -235,3 +235,4 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Verified Element Index](https://www.codewars.com/kata/5ddcfa7aaff39b0027d2c754)
 - [Implementing a Verified Evaluator for the Untyped Lambda Calculus](https://www.codewars.com/kata/5e3d8d8ef76b1c001e062cfe)
 - [The Church-Rosser Theorem](https://www.codewars.com/kata/5e4914f1083ab4001eb6af2d)
+- [Verified list maximum](https://www.codewars.com/kata/60b49f44080926003a20bbed)
