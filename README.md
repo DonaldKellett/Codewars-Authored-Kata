@@ -238,3 +238,4 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Verified list maximum](https://www.codewars.com/kata/60b49f44080926003a20bbed)
 - [Verified binary tree inversion](https://www.codewars.com/kata/60b9d5d64e0ae80031bdd9b4)
 - [Another random fact about filtering](https://www.codewars.com/kata/61860eed193401003c624be0)
+- [Yet another random fact about filtering](https://www.codewars.com/kata/61861ec3193401003c64ec32)
