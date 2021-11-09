@@ -1,21 +1,6 @@
 # Codewars-Authored-Kata
 
-Just a list of all the Kata I have authored [on Codewars](https://codewars.com/users/donaldsebleung/authored) - *and more* :wink:  *Note that this page is NOT guaranteed to be 100% up-to-date all of the time.*
-
-*Last Updated: 09/06/2020*
-
-## Featured Kata
-
-### [The Church-Rosser Theorem](https://www.codewars.com/kata/5e4914f1083ab4001eb6af2d)
-
-- Average assessed rank: `2 kyu`
-- Status: Beta
-
-You are asked to adapt the proof of the Church-Rosser theorem for beta-eta-reduction in the untyped lambda calculus, given in Chapter 4.4 of Peter Selinger's [Lecture Notes on the Lambda Calculus](https://www.irif.fr/~mellies/mpri/mpri-ens/biblio/Selinger-Lambda-Calculus-Notes.pdf), for the case of beta-reduction as in Exercise 17, except this time, you have to formalize your proof.
-
-## All Kata authored by donaldsebleung
-
-Below is a list of all the Kata I have authored on Codewars, grouped by the Collection(s)/Series that they belong to.  A number of Kata, especially those I have authored back when I first started Codewars, are standalone and do not belong in any particular Collection/Series.
+List of Kata authored by [donaldsebleung](https://www.codewars.com/users/donaldsebleung) on [Codewars](https://www.codewars.com)
 
 ### Safen User Input
 
