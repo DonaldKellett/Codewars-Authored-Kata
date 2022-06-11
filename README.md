@@ -225,3 +225,4 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Another random fact about filtering](https://www.codewars.com/kata/61860eed193401003c624be0)
 - [Yet another random fact about filtering](https://www.codewars.com/kata/61861ec3193401003c64ec32)
 - [Multiples of some m, you say?](https://www.codewars.com/kata/61866a07193401003c701360)
+- [Verified Irregular Chessboard Area](https://www.codewars.com/kata/62a475bde656d500452d78a6)
