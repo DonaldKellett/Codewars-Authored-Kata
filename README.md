@@ -186,6 +186,10 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 
 - [Linear Feedback Shift Registers](https://www.codewars.com/kata/5edf9cb6d5f30e0034a4f76d)
 
+### [Induction toolbox](https://www.codewars.com/collections/induction-toolbox)
+
+- [Induction toolbox, Nat edition: Generalized m-induction](https://www.codewars.com/kata/62af1ef7032cd20058e98739)
+
 ### Standalone Kata
 
 - [Fix the Bugs (Syntax) - My First Kata](https://www.codewars.com/kata/56aed32a154d33a1f3000018)
