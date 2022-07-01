@@ -188,7 +188,7 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 
 ### [Induction toolbox](https://www.codewars.com/collections/induction-toolbox)
 
-- [Induction toolbox, Nat edition: Generalized m-induction](https://www.codewars.com/kata/62af1ef7032cd20058e98739)
+- [Induction toolbox: Generalized m-induction](https://www.codewars.com/kata/62af1ef7032cd20058e98739)
 
 ### Standalone Kata
 
