@@ -232,3 +232,4 @@ _Disclaimer: The exercises in this collection are in no way officially endorsed 
 - [Verified Irregular Chessboard Area](https://www.codewars.com/kata/62a475bde656d500452d78a6)
 - [Verified Sums of Parts](https://www.codewars.com/kata/62a74896f3eed2006578b17b)
 - [100 prisoners, 100 drawers, 100 paper slips](https://www.codewars.com/kata/62beb65c0f0b30424cbf441a)
+- [Efficient last Fibonacci digit in base d](https://www.codewars.com/kata/677d466c0d0c6c2b02c9e636)
